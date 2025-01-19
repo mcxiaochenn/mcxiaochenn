@@ -15,3 +15,5 @@ ip常驻浙江嘉兴，会说标准平湖话😡
 想到什么再写什么罢🤓👆
 
 ### 爱发电
+![image](images/aifadian/wechat.png)
+![image](images/aifadian/alipay.jpg)
