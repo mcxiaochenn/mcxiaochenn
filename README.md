@@ -13,3 +13,6 @@ ip常驻浙江嘉兴，会说标准平湖话😡
 内容偏技术向和保姆级，现常驻一加，攒钱买iPhone中，厌蠢🤓
 
 想到什么再写什么罢🤓👆
+
+### 支持一下
+[为爱发电](https://github.com/mcxiaochenn/mcxiaochenn/blob/main/aifadian.md)
