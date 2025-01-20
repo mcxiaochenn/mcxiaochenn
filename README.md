@@ -1,4 +1,4 @@
-# 爱来自小尘 👋
+# 爱来自小尘 👋 ![](https://komarev.com/ghpvc/?username=mcxiaochenne&color=blue&style=flat-square)
 
 [![foru17 stats](https://github-readme-stats.vercel.app/api?username=mcxiaochenn&theme=dark&show_icons=true)](https://github.com/mcxiaochenn)
 
