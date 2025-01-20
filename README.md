@@ -18,5 +18,9 @@ ip常驻浙江嘉兴，会说标准平湖话😡
 
 想到什么再写什么罢🤓👆
 
+## Connect
+
+- [![Blog](https://static.is26.com/tmp/icons/blog.svg)]Blog搭建中
+
 ### 支持一下
 [为爱发电](https://github.com/mcxiaochenn/mcxiaochenn/blob/main/aifadian.md)
