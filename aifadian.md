@@ -1,3 +1,3 @@
 ### 爱发电
-![image](images/aifadian/wechat.png)
-![image](images/aifadian/alipay.jpg)
+<img src="https://github.com/mcxiaochenn/mcxiaochenn/images/aifadian/wechat.png" width="210px">
+<img src="https://github.com/mcxiaochenn/mcxiaochenn/images/aifadian/alipay.png" width="210px">
