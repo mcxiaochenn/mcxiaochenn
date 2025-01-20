@@ -20,12 +20,10 @@ ip常驻浙江嘉兴，会说标准平湖话😡
 
 ## Connect
 
-- ![Blog](https://static.is26.com/tmp/icons/blog.svg) Blog搭建中
-- [![Bilibili](https://static.is26.com/tmp/icons/bilibili.svg)](https://space.bilibili.com/123757127)[Bilibili 哔哩哔哩: 不太打游戏的小尘](https://space.bilibili.com/123757127)
-- [![Coolapk](https://static.is26.com/tmp/icons/github.svg)](https://github.com/mcxiaochenn)[Github: mcxiaochenn](https://github.com/mcxiaochenn)
-- [![Github](https://static.is26.com/tmp/icons/github.svg)](https://github.com/mcxiaochenn)[Github: mcxiaochenn](https://github.com/mcxiaochenn)
-
-https://www.coolapk.com/u/21508887
+- ![Blog](https://raw.githubusercontent.com/mcxiaochenn/mcxiaochenn/refs/heads/main/images/logo/blog.svg) Blog搭建中
+- [![Bilibili](https://raw.githubusercontent.com/mcxiaochenn/mcxiaochenn/refs/heads/main/images/logo/bilibili.svg)](https://space.bilibili.com/123757127)[Bilibili 哔哩哔哩: 不太打游戏的小尘](https://space.bilibili.com/123757127)
+- [![Coolapk](https://raw.githubusercontent.com/mcxiaochenn/mcxiaochenn/refs/heads/main/images/logo/coolapk.svg)](https://www.coolapk.com/u/21508887)[CoolApk 酷安: 我不是尘桑](https://www.coolapk.com/u/21508887)
+- [![Github](https://raw.githubusercontent.com/mcxiaochenn/mcxiaochenn/refs/heads/main/images/logo/github.svg)](https://github.com/mcxiaochenn)[Github: mcxiaochenn](https://github.com/mcxiaochenn)
 
 ### 支持一下
 [为爱发电](https://github.com/mcxiaochenn/mcxiaochenn/blob/main/aifadian.md)
