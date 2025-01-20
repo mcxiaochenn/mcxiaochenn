@@ -21,6 +21,7 @@ ip常驻浙江嘉兴，会说标准平湖话😡
 ## Connect
 
 - ![Blog](https://static.is26.com/tmp/icons/blog.svg) Blog搭建中
+- [![Bilibili](https://static.is26.com/tmp/icons/bilibili.svg)](https://space.bilibili.com/123757127)[Bilibili 哔哩哔哩: 不太打游戏的小尘](https://space.bilibili.com/123757127)
 
 ### 支持一下
 [为爱发电](https://github.com/mcxiaochenn/mcxiaochenn/blob/main/aifadian.md)
