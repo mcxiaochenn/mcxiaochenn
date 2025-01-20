@@ -2,6 +2,8 @@
 
 [![foru17 stats](https://github-readme-stats.vercel.app/api?username=mcxiaochenn&theme=dark&show_icons=true)](https://github.com/mcxiaochenn)
 
+## About Me
+
 全平台多名字基本上带小尘的都是我 英文昵称基本都是mcxiaochen(n)，欢迎各位亲叫我小尘🥰
 
 是00后，半吊子搞机玩家，喜欢什么就做什么（
