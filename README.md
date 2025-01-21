@@ -20,7 +20,7 @@ ip常驻浙江嘉兴，会说标准平湖话😡
 
 ## Connect
 
-- ![Blog](https://raw.githubusercontent.com/mcxiaochenn/mcxiaochenn/refs/heads/main/images/logo/blog.svg) Blog搭建中
+- [![Blog](https://raw.githubusercontent.com/mcxiaochenn/mcxiaochenn/refs/heads/main/images/logo/blog.svg)](https://mcxiaochen.icu/)[Blog 博客](https://mcxiaochen.icu/)
 - [![Bilibili](https://raw.githubusercontent.com/mcxiaochenn/mcxiaochenn/refs/heads/main/images/logo/bilibili.svg)](https://space.bilibili.com/123757127)[Bilibili 哔哩哔哩: 不太打游戏的小尘](https://space.bilibili.com/123757127)
 - [![Coolapk](https://raw.githubusercontent.com/mcxiaochenn/mcxiaochenn/refs/heads/main/images/logo/coolapk.svg)](https://www.coolapk.com/u/21508887)[CoolApk 酷安: 我不是尘桑](https://www.coolapk.com/u/21508887)
 - [![Github](https://raw.githubusercontent.com/mcxiaochenn/mcxiaochenn/refs/heads/main/images/logo/github.svg)](https://github.com/mcxiaochenn)[Github: mcxiaochenn](https://github.com/mcxiaochenn)
