@@ -26,4 +26,4 @@ ip常驻浙江嘉兴，会说标准平湖话😡
 - [![Github](https://raw.githubusercontent.com/mcxiaochenn/mcxiaochenn/refs/heads/main/images/logo/github.svg)](https://github.com/mcxiaochenn)[Github: mcxiaochenn](https://github.com/mcxiaochenn)
 
 ### 支持一下
-[为爱发电](https://github.com/mcxiaochenn/mcxiaochenn/blob/main/aifadian.md)
+[为爱发电](https://oki.mcxiaochen.top/guide/zanzhu.html)
