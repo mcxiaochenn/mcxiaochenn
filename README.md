@@ -25,5 +25,27 @@ ip常驻浙江嘉兴，会说标准平湖话😡
 - [![Coolapk](https://raw.githubusercontent.com/mcxiaochenn/mcxiaochenn/refs/heads/main/images/logo/coolapk.svg)](https://www.coolapk.com/u/21508887)[CoolApk 酷安: 我不是尘桑](https://www.coolapk.com/u/21508887)
 - [![Github](https://raw.githubusercontent.com/mcxiaochenn/mcxiaochenn/refs/heads/main/images/logo/github.svg)](https://github.com/mcxiaochenn)[Github: mcxiaochenn](https://github.com/mcxiaochenn)
 
+## 广告位
+
+### 推荐云服务器：Rainyun 润雨科技
+
+[![雨云](images/logo/yuyun.png)](https://www.rainyun.com/NzUwOTc0_)
+
+> 🚀 稳定 · 高性价比 · 学生/开发者友好！
+
+Rainyun（雨云）是一家提供 VPS、云服务器、域名、对象存储等服务的优质云服务平台，支持大陆/香港/海外多地节点，非常适合学生党和开发者使用。
+
+🌟 你可以在这里体验：
+
+免费试用 / 超低价套餐
+
+一键部署面板 / 宝塔面板支持
+
+快速上手 / 长期稳定支持
+
+优秀服务 / 支持7天无理由还有7x20小时客服工单系统支持
+
+👉 [点击进入雨云官网](https://www.rainyun.com/NzUwOTc0_) 立即注册体验！
+
 ### 支持一下
 [为爱发电](https://oki.mcxiaochen.top/guide/zanzhu.html)
