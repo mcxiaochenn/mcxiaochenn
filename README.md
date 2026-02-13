@@ -1,6 +1,9 @@
 # 爱来自小尘 👋 ![](https://komarev.com/ghpvc/?username=mcxiaochenne&color=blue&style=flat-square)
 
-[![foru17 stats](https://github-readme-stats.vercel.app/api?username=mcxiaochenn&theme=dark&show_icons=true)](https://github.com/mcxiaochenn)
+<!-- 简介卡片 -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mcxiaochenn&theme=radical" alt="profile summary"/>
+</div>
 
 ## About Me
 
