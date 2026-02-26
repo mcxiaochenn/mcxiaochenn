@@ -51,4 +51,4 @@ Rainyun（雨云）是一家提供 VPS、云服务器、域名、对象存储等
 👉 [点击进入雨云官网](https://www.rainyun.com/NzUwOTc0_) 立即注册体验！
 
 ### 支持一下
-[为爱发电](https://oki.mcxiaochen.top/guide/zanzhu.html)
+[为爱发电](https://blog.mcxiaochen.top/sponsors/)
