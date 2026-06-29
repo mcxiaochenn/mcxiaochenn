@@ -21,14 +21,14 @@ ip常驻浙江嘉兴，会说标准平湖话😡
 
 想到什么再写什么罢🤓👆
 
-## 关于我卡片
+## 链接
 
 - [![Blog](https://raw.githubusercontent.com/mcxiaochenn/mcxiaochenn/refs/heads/main/images/logo/blog.svg)](https://mcxiaochen.top/)[Blog 博客](https://mcxiaochen.top/)
 - [![Bilibili](https://raw.githubusercontent.com/mcxiaochenn/mcxiaochenn/refs/heads/main/images/logo/bilibili.svg)](https://space.bilibili.com/123757127)[Bilibili 哔哩哔哩: 辰渊尘Dusk](https://space.bilibili.com/123757127)
 - [![Coolapk](https://raw.githubusercontent.com/mcxiaochenn/mcxiaochenn/refs/heads/main/images/logo/coolapk.svg)](https://www.coolapk.com/u/21508887)[CoolApk 酷安: 辰渊尘](https://www.coolapk.com/u/21508887)
 - [![Github](https://raw.githubusercontent.com/mcxiaochenn/mcxiaochenn/refs/heads/main/images/logo/github.svg)](https://github.com/mcxiaochenn)[Github: mcxiaochenn](https://github.com/mcxiaochenn)
 
-## 广告位
+## 关于我卡片
 
 [![GitHub Roast](https://githubroast.dev/api/card/mcxiaochenn)](https://githubroast.dev/u/mcxiaochenn)
 
